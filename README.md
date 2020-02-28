@@ -8,8 +8,8 @@ Amazon-like storefront using Node.js & MySQL.  The app will take in orders from 
 <img src="misc/ScreenShot2.png">
 <img src="misc/ScreenShot1.png">
 
-## How to use Video
-https://drive.google.com/file/d/1ioqF3F2rqfLmFsjMfeZ8VVrUkm7ytTsH/view?usp=sharing
+## App Video
+https://drive.google.com/file/d/1NhZcm_sDdkSL5KiyJX_VA3-J8YS_wWTR/view
 
 ### Prerequisites
 
