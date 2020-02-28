@@ -2,25 +2,21 @@
 
 Amazon-like storefront using Node.js & MySQL.  The app will take in orders from customers and deplete stock from the store's inventory. 
 
-## Getting Started
+## Screenshots
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<img src="misc/ScreenShot1.png" width="50" height="50">
+<img src="misc/ScreenShot2.png" width="50" height="50">
+<img src="misc/ScreenShot3.png" width="50" height="50">
 
 ### Prerequisites
 
 Make sure you save and require the MySQL and Inquirer npm packages in the folder.
 
-
-### Installing
-
-
-
-
-
-
 ## Deployment
 
 Use terminal or run from Visual Studio Code Terminal
+
+Type:  node bamazon.js
 
 
 ## Built With
