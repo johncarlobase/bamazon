@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using Node.js & MySQL.  The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johncarlobase/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johncarlobase/bamazon/issues"
+  },
+  "homepage": "https://github.com/johncarlobase/bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "colors": "^1.4.0",
+    "inquire": "^0.4.8",
+    "mysql": "^2.18.1",
+    "table": "^5.4.6"
+  }
+}
