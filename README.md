@@ -4,9 +4,9 @@ Amazon-like storefront using Node.js & MySQL.  The app will take in orders from 
 
 ## Screenshots
 
-<img src="misc/ScreenShot1.png" width="50" height="50">
-<img src="misc/ScreenShot2.png" width="50" height="50">
-<img src="misc/ScreenShot3.png" width="50" height="50">
+<img src="misc/ScreenShot1.png" width="100" height="100">
+<img src="misc/ScreenShot2.png" width="100" height="100">
+<img src="misc/ScreenShot3.png" width="100" height="100">
 
 ### Prerequisites
 
